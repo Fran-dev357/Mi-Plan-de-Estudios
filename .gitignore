@@ -27,3 +27,4 @@ Thumbs.db
 # --- Otros ---
 captures/
 /captures
+.kotlin/
