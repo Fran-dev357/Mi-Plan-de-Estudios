@@ -35,7 +35,13 @@ Si esta app te resultó útil, podés invitarme a un café:
 Si encontraste un error o tenés una sugerencia, contactame desde la sección "Colaborar" dentro de la app.
 
 ## Imágenes 
-<img width="302" height="633" alt="imagen" src="https://github.com/user-attachments/assets/40c9c399-e2b7-4681-b443-f26fbe7f32e1" /> <img width="311" height="634" alt="imagen" src="https://github.com/user-attachments/assets/e6833c64-b83e-4247-8617-2e0ab3e51ce9" />
+<img width="1080" height="2318" alt="Screenshot_20260129-134709_1" src="https://github.com/user-attachments/assets/1da7d7d5-1c3c-4636-9335-6133abe37bbc" />
+
+---
+
+<img width="1080" height="2304" alt="Screenshot_20260129-134445_1_1" src="https://github.com/user-attachments/assets/f455eebd-7c81-44e2-9399-7e435f569c9c" />
+
+
 
 
 
