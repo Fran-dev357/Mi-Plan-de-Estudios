@@ -34,12 +34,12 @@ Si encontraste un error o tenés una sugerencia, contactame desde la sección "C
 
 ## Imágenes
 
-![Screenshot_20260129-152246_1.png](../../Downloads/Screenshot_20260129-152246_1.png)
+<img src="imagenes/seleccionDeCarrera.png" width="300">
 
 ---
 
-![Screenshot_20260129-134709_1.png](../../Downloads/Screenshot_20260129-134709_1.png)
+<img src="imagenes/listaDeMaterias.png" width="300">
 
 ---
 
-![Screenshot_20260129-134445_1_1.png](../../Downloads/Screenshot_20260129-134445_1_1.png)
+<img src="imagenes/menuDeConfiguracion.png" width="300">
